@@ -6,3 +6,4 @@ The website was made without using any framework or libraries.
 
 ![Website Screenshot](assets/img/ss of webiste.png)
 
+link::https://gisidro-creator.github.io/CSDC100PREFINALS/
